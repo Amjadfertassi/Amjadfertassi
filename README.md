@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Amjadfertassi
-- 👀 I’m interested in Web Developement
+- 👀 I’m interested in Mobile App Developement
 - 🌱 I’m currently learning Mobile Developement
 - 📫 How to reach me : LinkdIn Link -- https://www.linkedin.com/in/fertassi-amjad-499888278/
