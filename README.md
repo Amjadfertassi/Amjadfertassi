@@ -12,8 +12,8 @@
 - 📫 How to reach me **amjadfertassi69@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="left" width="400px" height="600px" src="[https://pin.it/2P75c1pYD](https://tenor.com/view/coding-gif-25183725)">
-
+<!-- <img align="left" width="400px" height="600px" src="[https://pin.it/2P75c1pYD](https://tenor.com/view/coding-gif-25183725)"> -->
+<div class="tenor-gif-embed" data-postid="25183725" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/coding-gif-25183725">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <p align="left">
 </p>
 
