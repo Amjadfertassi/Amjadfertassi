@@ -10,10 +10,10 @@
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **amjadfertassi69@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
-<!-- <img align="left" width="50%" src="https://github.com/user-attachments/assets/57038764-2e5e-4249-a7bb-d6600ac501e2" alt="Image description"> -->
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fertassi-amjad-499888278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fertassi-amjad-499888278/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/24889998/amjad-fertassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24889998/amjad-fertassi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
