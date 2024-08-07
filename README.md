@@ -12,6 +12,7 @@
 - 📫 How to reach me **amjadfertassi69@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<img href="https://i.gifer.com/3BBS.gif"></img>
 <p align="left">
 </p>
 
