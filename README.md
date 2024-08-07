@@ -12,8 +12,8 @@
 - 📫 How to reach me **amjadfertassi69@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="left" width="400px" height="600px" src="[[https://pin.it/2P75c1pYD](https://tenor.com/view/coding-gif-25183725)](https://i.pinimg.com/236x/dd/53/a9/dd53a924131e5fc9d17438a6fda0be26.jpg
-)">
+<img align="left" width="400px" height="600px" src=![- Find   Share on GIPHY](https://github.com/user-attachments/assets/00288050-e02f-4049-9f85-80616b9c7cef)
+"">
 <p align="left">
 </p>
 
