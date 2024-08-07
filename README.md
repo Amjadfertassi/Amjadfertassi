@@ -12,7 +12,7 @@
 - 📫 How to reach me **amjadfertassi69@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="left" width="100%"  src="https://github.com/user-attachments/assets/f236404f-da0c-48f6-bece-3c2d10900df1" alt="Image description">
+<img align="left" width="80%" height="40%" src="https://github.com/user-attachments/assets/f236404f-da0c-48f6-bece-3c2d10900df1" alt="Image description">
 <p align="left">
 </p>
 
