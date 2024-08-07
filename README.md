@@ -12,8 +12,7 @@
 - 📫 How to reach me **amjadfertassi69@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="left" width="400px" height="600px" src=![- Find   Share on GIPHY](https://github.com/user-attachments/assets/00288050-e02f-4049-9f85-80616b9c7cef)
-"">
+<img align="left" width="400px" height="600px" src="https://github.com/user-attachments/assets/00288050-e02f-4049-9f85-80616b9c7cef" alt="Image description">
 <p align="left">
 </p>
 
