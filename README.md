@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amjad fertassi</h1>
-<h3 align="center">A passionate mobile and full stack developer⚡</h3>
+<h2 align="center">A passionate mobile and full stack developer⚡</h2>
 
 - 🔭 I’m currently working on **Secret Project 🥷**
 
-- 🌱 I’m currently learning **Mongo DB - Express JS and more...**
+- 🌱 I’m currently learning **Mongo DB - Express JS and more...** Check my last Repositories 
 
 - 👨‍💻 All of my projects are available at [https://amjadfertassi.github.io/Portfolio_Amjad_Fertassi/](https://amjadfertassi.github.io/Portfolio_Amjad_Fertassi/)
 
