@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 , I'm Amjad fertassi</h1>
+<h1 align="center">Hi 👋 , I'm Amjad Fertassi</h1>
 <h2 align="center">A passionate mobile and full stack developer⚡ </h2>
 
 - 🔭 I’m currently working on **Ecommerce_App_with_FLutter**
