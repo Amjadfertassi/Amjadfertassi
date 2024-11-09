@@ -1,7 +1,5 @@
 <h1 align="center">Hello World , I'm Amjad Fertassi</h1>
 <h2 align="center">A Software Developer⚡ </h2>
-![Followers](https://img.shields.io/github/followers/your-username?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=your-username)
 
 
 - 🔭 I’m currently working on **Ecommerce_App_with_FLutter**
