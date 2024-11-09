@@ -1,7 +1,7 @@
 <h1 align="center">Hello World , I'm Amjad Fertassi</h1>
 <h2 align="center">A Software Developer⚡ </h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=Amjadfertassi&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amjadfertassi&theme=radical)
 
 
 - 🔭 I’m currently working on **Ecommerce_App_with_FLutter**
