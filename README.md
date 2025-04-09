@@ -1,9 +1,9 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World! I'm Amjad Fertassi 👋🏼
-🚀 Passionate Software developer 
-🧠 Focused on building smart, scalable, AI-powered web applications<br>
-📚 Lifelong learner, always diving into new tech and tools<br>
+# 🚀 Passionate Software developer 
+# 🧠 Focused on building smart, scalable, AI-powered web applications<br>
+# 📚 Lifelong learner, always diving into new tech and tools<br>
 
 ---
 
