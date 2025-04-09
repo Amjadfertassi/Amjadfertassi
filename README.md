@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="[banner_github.png](https://media.licdn.com/dms/image/v2/D4E16AQG5sTBh6woOnA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731852850992?e=1749686400&v=beta&t=ZKOjBn0gpzejCIZa2eNif-0iFfl1KpgqW87l5A26X2M)" alt="GitHub Banner" width="100%" />
 
 # Hello World! I'm Amjad Fertassi 👋🏼
 🚀 Passionate Software developer <br>
