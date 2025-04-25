@@ -61,7 +61,7 @@
 ---
 
 # 🌐 Find me online
-- 🌍 [Portfolio Website](portfolio-amjad-fertassi.vercel.app) *(or insert your actual domain)*
+- 🌍 [Portfolio Website](portfolio-amjad-fertassi.vercel.app)
 - 💼 [LinkedIn]([https://www.linkedin.com/in/amjadfertassi](https://www.linkedin.com/in/amjad-fertassi-499888278/))
 - 💬 DM me for collabs or open source work!
 
